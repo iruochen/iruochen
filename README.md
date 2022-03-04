@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/qukaiyuan/qukaiyuan/master/me.gif" width="50">
+<img src="https://raw.githubusercontent.com/iruochen/iruochen/master/me.gif" width="50">
 
 ## it's ruochen, it's me
 

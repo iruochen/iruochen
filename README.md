@@ -4,7 +4,7 @@
 
 ### About me？ :eyes:
 - I'm a Backend Developer
-- I’m currently working on ✨ [SpringStudy](https://github.com/iruochen/SpringStudy) ✨
+- I’m currently working on ✨ [BookManager](https://github.com/iruochen/BookManager) ✨
 - My little goal is to be a full stack developer
 - Bon courage! 🥂
 

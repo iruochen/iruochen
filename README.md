@@ -4,7 +4,7 @@
 
 ### About me？ :eyes:
 - I'm a Backend Developer
-- I’m currently working on ✨ [BookManager](https://github.com/iruochen/BookManager) ✨
+- I’m currently working on ✨ [neovim-lua](https://github.com/iruochen/neovim-lua) ✨
 - My little goal is to be a full stack developer
 - Bon courage! 🥂
 
